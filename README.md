@@ -44,6 +44,8 @@ GGphish 是一款现代化的企业级钓鱼演练与安全意识测评平台。
 - **样式**：TailwindCSS + Vanilla CSS + CSS Variables (Design Tokens)
 - **构建工具**：Vite
 
-
+### 联系方式：
+- **邮箱**：iotsec@163.com
+- **微信**：wxid_skd7x03vugib12
 
 © 2026 GGphish Team. 版权所有。
